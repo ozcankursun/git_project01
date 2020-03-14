@@ -6,7 +6,7 @@ public class NextClass {
 
   
 
-  System.out.println("Hello dear friends");
+  System.out.println("Hello dear SDETS");
   
   
   
